@@ -26,7 +26,7 @@
     ],
     "dependencies": {
         "mailcomposer": ">= 0.1.29",
-        "simplesmtp": ">= 0.1.28",
+        "simplesmtp": "0.2.x",
         "optimist": "*"
     },
     "devDependencies": {

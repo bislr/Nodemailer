@@ -1,6 +1,6 @@
 {
   "name": "nodemailer",
-  "version": "0.3.42-3",
+  "version": "0.3.42-4",
   "dependencies": {
     "mailcomposer": {
       "version": "0.2.12",

@@ -1,7 +1,7 @@
 {
     "name": "nodemailer",
     "description": "Easy to use module to send e-mails, supports unicode and SSL/TLS",
-    "version": "0.3.42-6",
+    "version": "0.3.42-7",
     "author" : "Andris Reinman",
     "maintainers":[
         {
@@ -25,7 +25,7 @@
         }
     ],
     "dependencies": {
-        "mailcomposer": "git://github.com/bislr/mailcomposer.git#v0.2.9-1",
+        "mailcomposer": "git://github.com/bislr/mailcomposer.git#v0.2.9-2",
         "simplesmtp": "0.2.7",
         "optimist": "0.6.1"
     },
